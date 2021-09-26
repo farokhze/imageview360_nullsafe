@@ -1,3 +1,7 @@
+## [2.0.0] - Release 
+
+* add null safety
+
 ## [1.2.0] - Release 
 
 * Added support for ImageProvider in imageList.

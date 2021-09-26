@@ -1,28 +1,33 @@
 # imageview360
 
+## The Real Author is harpreetseera
+**pub.dev [pub](https://pub.dev/packages/imageview360)** <br>
+**github [github](https://github.com/hd-motion/flutter_imageview_360)**
+I just conver codes to null safety
+
  A Flutter package which provides 360 view of the images with rotation and gesture customisations.
 
 
 ## Supported Dart Versions
-**Dart SDK version >= 2.1.0**
+**Dart SDK version >= 2.12.0**
 
 ## Demo Gif
 <img src="https://raw.githubusercontent.com/hd-motion/flutter_imageview_360/master/example/demo/imageview360.gif" height="35%" width="35%"  alt="imageview360 Demo"/>
 
 ## Installation
-[![Pub](https://img.shields.io/badge/pub-1.2.0-blue)](https://pub.dev/packages/imageview360)
+[![Pub](https://img.shields.io/badge/pub-2.0.0-blue)](https://pub.dev/packages/imageview360_nullsafe)
 
 Add the Package
 ```yaml
 dependencies:
-  imageview360: ^1.2.0
+  imageview360_nullsafe: ^2.0.0
 ```
 ## How to use
 
 Import the package in your dart file
 
 ```dart
-import 'package:imageview360/imageview360.dart';
+import 'package:imageview360_nullsafe/imageview360_nullsafe.dart';
 
 ```
 
